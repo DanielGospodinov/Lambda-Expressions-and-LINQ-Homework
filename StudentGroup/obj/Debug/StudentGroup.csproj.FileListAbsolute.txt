@@ -1,0 +1,7 @@
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\StudentGroup\bin\Debug\StudentGroup.exe.config
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\StudentGroup\bin\Debug\StudentGroup.exe
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\StudentGroup\bin\Debug\StudentGroup.pdb
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\StudentGroup\obj\Debug\StudentGroup.csprojAssemblyReference.cache
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\StudentGroup\obj\Debug\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\StudentGroup\obj\Debug\StudentGroup.exe
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\StudentGroup\obj\Debug\StudentGroup.pdb

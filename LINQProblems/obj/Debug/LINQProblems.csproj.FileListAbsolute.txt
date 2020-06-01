@@ -1,0 +1,7 @@
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\LINQProblems\bin\Debug\LINQProblems.exe.config
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\LINQProblems\bin\Debug\LINQProblems.exe
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\LINQProblems\bin\Debug\LINQProblems.pdb
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\LINQProblems\obj\Debug\LINQProblems.csprojAssemblyReference.cache
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\LINQProblems\obj\Debug\LINQProblems.csproj.CoreCompileInputs.cache
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\LINQProblems\obj\Debug\LINQProblems.exe
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\LINQProblems\obj\Debug\LINQProblems.pdb

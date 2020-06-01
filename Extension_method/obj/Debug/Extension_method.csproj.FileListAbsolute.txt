@@ -1,0 +1,7 @@
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\Extension_method\bin\Debug\Extension_method.exe.config
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\Extension_method\bin\Debug\Extension_method.exe
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\Extension_method\bin\Debug\Extension_method.pdb
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\Extension_method\obj\Debug\Extension_method.csprojAssemblyReference.cache
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\Extension_method\obj\Debug\Extension_method.csproj.CoreCompileInputs.cache
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\Extension_method\obj\Debug\Extension_method.exe
+C:\Users\dan13\source\repos\Lambda_Expressions_and_LINQ\Extension_method\obj\Debug\Extension_method.pdb
